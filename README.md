@@ -16,8 +16,9 @@
 
 **Project:** Power-BI-Real-Time-Dashboard-Report
 
+![Screenshot (63)](https://github.com/user-attachments/assets/67438e50-ed60-41ab-841c-28a7da044158)
 
-
+![image](https://github.com/user-attachments/assets/0a1b77d1-9859-494b-b524-ff463d5f0d2b)
 
 
 
